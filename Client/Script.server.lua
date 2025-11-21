@@ -1,0 +1,141 @@
+--Comparing CTKnife_Stock to : CTKnife_Stock
+--Comparing Bizon_Stock to : Bizon_Stock
+--Comparing P90_Stock to : P90_Stock
+--Comparing UMP_Stock to : UMP_Stock
+--Comparing MP7_Stock to : MP7_Stock
+--Comparing MP9_Stock to : MP9_Stock
+--Comparing Negev_Stock to : Negev_Stock
+--Comparing M249_Stock to : M249_Stock
+--Comparing MAG7_Stock to : MAG7_Stock
+--Comparing XM_Stock to : XM_Stock
+--Comparing Nova_Stock to : Nova_Stock
+--Comparing G3SG1_Stock to : G3SG1_Stock
+--Comparing AUG_Stock to : AUG_Stock
+--Comparing M4A1_Stock to : M4A1_Stock
+--Comparing M4A4_Stock to : M4A4_Stock
+--Comparing Famas_Stock to : Famas_Stock
+--Comparing AWP_Instinct to : AWP_Stock
+--Comparing Scout_Stock to : Scout_Stock
+--Comparing CZ_Stock to : CZ_Stock
+--Comparing FiveSeven_Stock to : FiveSeven_Stock
+--Comparing P2000_Stock to : P2000_Stock
+--Comparing USP_Stock to : USP_Stock
+--Comparing DesertEagle_Stock to : DesertEagle_Stock
+--Comparing P250_Stock to : P250_Stock
+--Comparing DualBerettas_Stock to : DualBerettas_Stock
+--Comparing UMP_Stock to : UMP_Militia Camo
+--Comparing G3SG1_Stock to : G3SG1_Foliage
+--Comparing P90_Stock to : P90_Demon Within
+--Comparing Nova_Stock to : Nova_Tiger
+--Comparing AWP_Instinct to : AWP_Instinct
+--Comparing G3SG1_Stock to : G3SG1_Hex
+--Comparing MP7_Stock to : MP7_Sunshot
+--Comparing P2000_Stock to : P2000_Golden Age
+--Comparing AUG_Stock to : AUG_Dream Hound
+--Comparing AWP_Instinct to : AWP_Desert Camo
+--Comparing M4A4_Stock to : M4A4_Pinkvision
+--Comparing FiveSeven_Stock to : FiveSeven_Stigma
+--Comparing DesertEagle_Stock to : DesertEagle_Honor-bound
+--Comparing AWP_Instinct to : AWP_Bloodborne
+--Comparing DualBerettas_Stock to : DualBerettas_Floral
+--Comparing M4A1_Stock to : M4A1_Toucan
+--Comparing Gut Knife_Stock to : Huntsman Knife_Stock
+--Comparing Gut Knife_Stock to : Gut Knife_Stock
+--Comparing Gut Knife_Stock to : Bayonet_Stock
+--Comparing Gut Knife_Stock to : Butterfly Knife_Stock
+--Comparing Gut Knife_Stock to : Gut Knife_Wetland
+--Comparing Gut Knife_Stock to : Bayonet_Wetland
+--Comparing Gut Knife_Stock to : Gut Knife_Geo Blade
+--Comparing Gut Knife_Stock to : Butterfly Knife_Jade Dream
+--Comparing Gut Knife_Stock to : Falchion Knife_Stock
+--Comparing Gut Knife_Stock to : Falchion Knife_Marbleized
+--Comparing Gut Knife_Stock to : Huntsman Knife_Marbleized
+--Comparing M4A4_Stock to : M4A4_Candyskull
+--Comparing Scout_Stock to : Scout_Flowing Mists
+--Comparing Gut Knife_Stock to : Bayonet_Naval
+--Comparing Gut Knife_Stock to : Huntsman Knife_Naval
+--Comparing Gut Knife_Stock to : Gut Knife_Naval
+--Comparing Gut Knife_Stock to : Huntsman Knife_Wetland
+--Comparing Gut Knife_Stock to : Butterfly Knife_Naval
+--Comparing Gut Knife_Stock to : Falchion Knife_Wetland
+--Comparing Gut Knife_Stock to : Falchion Knife_Naval
+--Comparing MAG7_Stock to : MAG7_Molten
+--Comparing Gut Knife_Stock to : Gut Knife_Rusty
+--Comparing FiveSeven_Stock to : FiveSeven_Danjo
+--Comparing Nova_Stock to : Nova_Terraformer
+--Comparing MP9_Stock to : MP9_Velvita
+--Comparing Gut Knife_Stock to : Bayonet_Marbleized
+--Comparing M249_Stock to : M249_Aggressor
+--Comparing Gut Knife_Stock to : Butterfly Knife_White Boss
+--Comparing Gut Knife_Stock to : Falchion Knife_Chosen
+--Comparing Gut Knife_Stock to : Gut Knife_Marbleized
+--Comparing P250_Stock to : P250_Amber
+--Comparing Gut Knife_Stock to : Butterfly Knife_Wetland
+--Comparing Gut Knife_Stock to : Butterfly Knife_Marbleized
+--Comparing Gut Knife_Stock to : Huntsman Knife_Geo Blade
+--Comparing DesertEagle_Stock to : DesertEagle_Glittery
+--Comparing Negev_Stock to : Negev_Winterfell
+--Comparing CZ_Stock to : CZ_Festive
+--Comparing MAG7_Stock to : MAG7_Striped
+--Comparing Bizon_Stock to : Bizon_Festive
+--Comparing DualBerettas_Stock to : DualBerettas_Xmas
+--Comparing DesertEagle_Stock to : DesertEagle_Xmas
+--Comparing Gut Knife_Stock to : Bayonet_Intertwine
+--Comparing M4A1_Stock to : M4A1_Animatic
+--Comparing AWP_Instinct to : AWP_JTF2
+--Comparing Gut Knife_Stock to : Bayonet_Sapphire
+--Comparing USP_Stock to : USP_Skull
+--Comparing Gut Knife_Stock to : Karambit_Stock
+--Comparing XM_Stock to : XM_Red
+--Comparing MP9_Stock to : MP9_Blueroyal
+--Comparing Gut Knife_Stock to : Karambit_Gold
+--Comparing Gut Knife_Stock to : Karambit_Jade Dream
+--Comparing Gut Knife_Stock to : Karambit_Naval
+--Comparing M4A4_Stock to : M4A4_BOT[S]
+--Comparing P250_Stock to : P250_TC250
+--Comparing Gut Knife_Stock to : Bayonet_Twitch
+--Comparing Gut Knife_Stock to : Bayonet_Geo Blade
+--Comparing M4A1_Stock to : M4A1_Desert Camo
+--Comparing Gut Knife_Stock to : Gut Knife_Crippled Fade
+--Comparing Gut Knife_Stock to : Knife_Huntsman Crippled Fade
+--Comparing Famas_Stock to : Famas_Abstract
+--Comparing USP_Stock to : USP_Crimson
+--Comparing P90_Stock to : P90_Redcopy
+--Comparing DualBerettas_Stock to : DualBerettas_Neon web
+--Comparing AUG_Stock to : AUG_Phoenix
+--Comparing DesertEagle_Stock to : DesertEagle_Krystallos
+--Comparing Bizon_Stock to : Bizon_Shattered
+--Comparing Gut Knife_Stock to : Falchion Knife_Crippled Fade
+--Comparing Gut Knife_Stock to : Gut Knife_Bloodwidow
+--Comparing Gut Knife_Stock to : Huntsman Knife_Crippled Fade
+--Comparing Gut Knife_Stock to : Gut Knife_Ruby
+--Comparing Gut Knife_Stock to : Huntsman Knife_Ruby
+--Comparing UMP_Stock to : UMP_Magma
+--Comparing Gut Knife_Stock to : Huntsman Knife_Bloodwidow
+--Comparing USP_Stock to : USP_Yellowbelly
+--Comparing DesertEagle_Stock to : DesertEagle_DropX
+--Comparing DesertEagle_Stock to : DesertEagle_Weeb
+--Comparing Gut Knife_Stock to : Karambit_Wetland
+--Comparing Gut Knife_Stock to : Karambit_Twitch
+--Comparing AWP_Instinct to : AWP_Weeb
+--Comparing CZ_Stock to : CZ_Orange Web
+--Comparing Famas_Stock to : Famas_Haunted Forest
+--Comparing P90_Stock to : P90_Skulls
+--Comparing Gut Knife_Stock to : Karambit_Hallows
+--Comparing Gut Knife_Stock to : Butterfly Knife_Hallows
+--Comparing Gut Knife_Stock to : Falchion Knife_Hallows
+--Comparing Gut Knife_Stock to : Gut Knife_Hallows
+--Comparing Gut Knife_Stock to : Huntsman Knife_Hallows
+--Comparing Gut Knife_Stock to : Karambit_Splattered
+--Comparing Gut Knife_Stock to : Butterfly Knife_Splattered
+--Comparing Gut Knife_Stock to : Falchion Knife_Splattered
+--Comparing Gut Knife_Stock to : Gut Knife_Splattered
+--Comparing Gut Knife_Stock to : Huntsman Knife_Splattered
+--Comparing Gut Knife_Stock to : Bayonet_Splattered
+--Comparing Gut Knife_Stock to : Karambit_Frozen Dream
+--Comparing Gut Knife_Stock to : Butterfly Knife_Frozen Dream
+--Comparing Gut Knife_Stock to : Falchion Knife_Frozen Dream
+--Comparing Gut Knife_Stock to : Gut Knife_Frozen Dream
+--Comparing Gut Knife_Stock to : Huntsman Knife_Frozen Dream
+--Comparing Gut Knife_Stock to : Bayonet_Frozen Dream
+--Comparing Gut Knife_Stock to : Butterfly Knife_Twitch
